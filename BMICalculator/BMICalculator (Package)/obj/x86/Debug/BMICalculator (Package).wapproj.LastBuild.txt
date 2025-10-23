@@ -1,21 +1,21 @@
 C:\Users\lucas\.nuget\packages\microsoft.web.webview2\1.0.3179.45\buildTransitive\..\\runtimes\win-x86\native_uap\Microsoft.Web.WebView2.Core.dll
 C:\Users\lucas\.nuget\packages\microsoft.web.webview2\1.0.3179.45\lib_manual\net6.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll
 C:\Users\lucas\.nuget\packages\microsoft.windowsappsdk.ml\1.8.2095\lib\net6.0-windows10.0.17763.0\Microsoft.Windows.AI.MachineLearning.Projection.dll
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
 C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PublicAssemblies\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\lucas\.nuget\packages\microsoft.web.webview2\1.0.3179.45\lib\Microsoft.Web.WebView2.Core.winmd
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\App.xbf
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\App.xbf
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf
 C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.26100.0\Redist\Debug\x86\ucrtbased.dll
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\SplashScreen.scale-200.png
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\LockScreenLogo.scale-200.png
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\Square150x150Logo.scale-200.png
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\Square44x44Logo.scale-200.png
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\StoreLogo.png
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\Wide310x150Logo.scale-200.png
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator (Package)\bin\x86\Debug\resources.pri
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\SplashScreen.scale-200.png
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\LockScreenLogo.scale-200.png
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\Square150x150Logo.scale-200.png
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\Square44x44Logo.scale-200.png
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\StoreLogo.png
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator (Package)\Images\Wide310x150Logo.scale-200.png
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator (Package)\bin\x86\Debug\resources.pri
 C:\Users\lucas\.nuget\packages\microsoft.web.webview2\1.0.3179.45\runtimes\win-x86\native_uap\Microsoft.Web.WebView2.Core.dll
 C:\Users\lucas\.nuget\packages\microsoft.windowsappsdk.ai\1.8.38\lib\net6.0-windows10.0.17763.0\Microsoft.Graphics.Imaging.Projection.dll
 C:\Users\lucas\.nuget\packages\microsoft.windowsappsdk.ai\1.8.38\lib\net6.0-windows10.0.17763.0\Microsoft.Windows.AI.ContentSafety.Projection.dll
@@ -64,10 +64,10 @@ C:\Users\lucas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\n
 C:\Users\lucas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.44\lib\net8.0\WinRT.Runtime.dll
 C:\Users\lucas\.nuget\packages\microsoft.web.webview2\1.0.3179.45\lib_manual\net8.0-windows10.0.17763.0\Microsoft.Web.WebView2.Core.Projection.dll
 C:\Users\lucas\.nuget\packages\microsoft.windowsappsdk.ml\1.8.2095\lib\net6.0-windows10.0.17763.0\Microsoft.Windows.AI.MachineLearning.Projection.dll
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.deps.json
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\App.xbf
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\apphost.exe
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.runtimeconfig.json
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.dll
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.pdb
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.deps.json
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\App.xbf
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\apphost.exe
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.runtimeconfig.json
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.dll
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.pdb

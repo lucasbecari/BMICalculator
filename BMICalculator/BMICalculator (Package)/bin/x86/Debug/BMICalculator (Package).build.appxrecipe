@@ -10,16 +10,16 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>1ed6bfcb-3e30-4d3b-bae5-ead1a71478d9</PackageIdentityName>
     <PackageIdentityPublisher>CN=lucas</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\bin\x86\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\bin\x86\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
@@ -34,10 +34,10 @@
     <AppxPackagedFile Include="C:\Users\lucas\.nuget\packages\microsoft.windowsappsdk.ml\1.8.2095\lib\net6.0-windows10.0.17763.0\Microsoft.Windows.AI.MachineLearning.Projection.dll">
       <PackagePath>Microsoft.Windows.AI.MachineLearning.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PublicAssemblies\System.Runtime.CompilerServices.Unsafe.dll">
@@ -46,43 +46,43 @@
     <AppxPackagedFile Include="C:\Users\lucas\.nuget\packages\microsoft.web.webview2\1.0.3179.45\lib\Microsoft.Web.WebView2.Core.winmd">
       <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\App.xbf">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>MainWindow.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.26100.0\Redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\SplashScreen.scale-200.png">
       <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\LockScreenLogo.scale-200.png">
       <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\Square150x150Logo.scale-200.png">
       <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\Square44x44Logo.scale-200.png">
       <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\StoreLogo.png">
       <PackagePath>Images\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator %28Package%29\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator %28Package%29\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\lucas\.nuget\packages\microsoft.web.webview2\1.0.3179.45\runtimes\win-x86\native_uap\Microsoft.Web.WebView2.Core.dll">
@@ -229,22 +229,22 @@
     <AppxPackagedFile Include="C:\Users\lucas\.nuget\packages\microsoft.windowsappsdk.ml\1.8.2095\lib\net6.0-windows10.0.17763.0\Microsoft.Windows.AI.MachineLearning.Projection.dll">
       <PackagePath>BMICalculator\Microsoft.Windows.AI.MachineLearning.Projection.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.deps.json">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.deps.json">
       <PackagePath>BMICalculator\BMICalculator.deps.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\App.xbf">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\App.xbf">
       <PackagePath>BMICalculator\App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\MainWindow.xbf">
       <PackagePath>BMICalculator\MainWindow.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\apphost.exe">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\apphost.exe">
       <PackagePath>BMICalculator\BMICalculator.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.runtimeconfig.json">
       <PackagePath>BMICalculator\BMICalculator.runtimeconfig.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.dll">
+    <AppxPackagedFile Include="C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator\bin\x86\Debug\net8.0-windows10.0.19041.0\BMICalculator.dll">
       <PackagePath>BMICalculator\BMICalculator.dll</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -1,1 +1,1 @@
-C:\Users\lucas\source\repos\BMICalculator\BMICalculator\BMICalculator (Package)\BMICalculator (Package).wapproj;x86
+C:\Projetinhos\BMICalculator\BMICalculator\BMICalculator (Package)\BMICalculator (Package).wapproj;x86
